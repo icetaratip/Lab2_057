@@ -1,3 +1,3 @@
 <?php
-echo "Home Page Icetaratip";
+echo "Home Page Icetaratip Edit";
 ?>
